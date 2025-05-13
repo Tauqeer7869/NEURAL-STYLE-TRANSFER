@@ -1,4 +1,4 @@
-# Neural Style Transfer UI
+# Neural-Style-Transfer 
 
 *COMPANY* : CODTECH IT SOLUTIONS
 
@@ -22,3 +22,5 @@ Looking ahead, there are numerous avenues for enhancement. One natural extension
 In summary, the Neural Style Transfer UI project exemplifies how advanced deep-learning research can be made accessible through thoughtful software engineering and user experience design. It empowers users to transform their own images into compelling artworks at the click of a button, while simultaneously offering a window into the mechanics of convolutional neural networks. By structuring the code into clear modules, adopting a clean web interface with Streamlit, and providing detailed documentation, the project achieves a robust foundation that is both practical for daily use and fertile for future innovation. Whether used for creative expression, education, or research prototyping, this hands-on tool opens the door to a world where art and artificial intelligence converge seamlessly.
 
 OUTPUT
+![Image](https://github.com/user-attachments/assets/5d618947-837d-4c92-8372-5b52600e1618)
+![Image](https://github.com/user-attachments/assets/2ce74661-cd90-4e86-a228-972531dd456c)
